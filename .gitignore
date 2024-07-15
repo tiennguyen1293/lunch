@@ -1,6 +1,5 @@
 node_modules
 coverage
 dist
-yarn.lock
 yarn-error.log
-node_modules
+# yarn.lock
