@@ -1,8 +1,12 @@
 {
-  "name": "loto",
+  "name": "lunch",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.0.1",
   "type": "module",
+  "author": {
+    "name": "Tien Nguyen (Bita)",
+    "email": "tiennguyen.fe@gmail.com"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
